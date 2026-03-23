@@ -1,6 +1,8 @@
 # 🚀 DevOps Flask App
 
 ![CI](https://github.com/MeirVEY770/devops-flask-app/actions/workflows/ci.yml/badge.svg)
+![Docker](https://img.shields.io/docker/pulls/elik770/devops-flask-app)
+![Docker Image Size](https://img.shields.io/docker/image-size/elik770/devops-flask-app/latest)
 
 ## 📌 О проекте
 
